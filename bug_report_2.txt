@@ -1,0 +1,7 @@
+Bug Report 2:
+Description: User profile picture not loading correctly.
+Steps to reproduce:
+1. Go to profile page.
+2. Observe profile picture.
+Expected result: Profile picture loads.
+Actual result: Broken image icon.
