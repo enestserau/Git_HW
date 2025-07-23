@@ -1,0 +1,12 @@
+ID 013452
+Summary: log in form isn't available on mobile
+Preconditions: environment pre-prod, test data etc.
+Steps to reproduce:
+1. Go to https://login-form.pre-prod.com
+2. Switch to mobile screen view via dev tools
+3. Click on log in button
+Actual result:
+Login form is not displaying
+Expected result:
+Login and passwords fileds presented on login pop-up window.
+Attached files: screenshots, logs, screen recordings
