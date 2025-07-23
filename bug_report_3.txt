@@ -1,0 +1,7 @@
+Bug Report 3:
+Description: Login button inactive after multiple failed attempts.
+Steps to reproduce:
+1. Enter wrong credentials 3 times.
+2. Try to log in again.
+Expected result: Login button remains active or shows error.
+Actual result: Login button becomes unresponsive.
