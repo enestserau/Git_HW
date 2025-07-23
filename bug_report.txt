@@ -10,3 +10,4 @@ Login form is not displaying
 Expected result:
 Login and passwords fileds presented on login pop-up window.
 Attached files: screenshots, logs, screen recordings
+Found by automation: true
